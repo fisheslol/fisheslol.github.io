@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/fisheslol/fisheslol.github.io/edit/main/assets/static_local/photo_2025-11-27_12-03-52.jpg
+avatar: https://avatars.githubusercontent.com/u/130834736?s=96&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
